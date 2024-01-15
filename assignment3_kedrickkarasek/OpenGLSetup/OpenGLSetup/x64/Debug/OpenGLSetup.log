@@ -1,0 +1,32 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (assignment1_MeldinBektic.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OpenGLSetup.cpp
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(74,27): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(74,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(74,12): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(82,27): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(82,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(82,12): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(93,27): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(93,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(93,12): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(101,27): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(101,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(101,12): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(112,19): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(236,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(244,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(244,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(246,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(307,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(345,3): warning C4551: function call missing argument list
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(374,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(374,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(374,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(443,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(444,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(447,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(449,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(457,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(479,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\OpenGLSetup\OpenGLSetup.cpp(573,16): warning C4305: '=': truncation from 'double' to 'float'
+  OpenGLSetup.vcxproj -> C:\Users\kedri\OneDrive\Desktop\computer graphics\assignment3_kedrickkarasek\OpenGLSetup\x64\Debug\OpenGLSetup.exe
